@@ -14,7 +14,7 @@ gem 'jquery-rails'
 
 gem 'devise-bootstrap-views'
 
-gem 'bootstrap-sass', '3.3.6'
+gem 'bootstrap-sass', '3.4.1'
 
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
