@@ -10,6 +10,12 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+
+First you need add gem gem 'bootstrap-sass', '3.3.6' to your Gemfile then bundle install then you must
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
  *= require_tree .
  *= require_self
  */
