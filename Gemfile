@@ -16,6 +16,9 @@ gem 'devise-bootstrap-views'
 
 gem 'bootstrap-sass', '3.3.6'
 
+# Stock Tracker gem
+gem 'iex-ruby-client'
+
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
